@@ -1,0 +1,27 @@
+Week3/CLI/test_dir 
+Raja-Umer:test_dir umerraja$ touch greeting.txt
+Raja-Umer:test_dir umerraja$ touch blank
+Raja-Umer:test_dir umerraja$ echo "hello" "hello" "hello" "hello" "hellow" > greeting.txt
+Raja-Umer:test_dir umerraja$ cp greeting.txt 1.txt
+Raja-Umer:test_dir umerraja$ cp greeting.txt 2.txt
+Raja-Umer:test_dir umerraja$ cp greeting.txt 3.txt
+Raja-Umer:test_dir umerraja$ cp greeting.txt 4.txt
+Raja-Umer:test_dir umerraja$ cp greeting.txt 5.txt
+Raja-Umer:test_dir umerraja$ echo "cat" > pets.txt
+Raja-Umer:test_dir umerraja$ echo "dog" >> pets.txt
+Raja-Umer:test_dir umerraja$ echo "hamster" >> pets.txt
+Raja-Umer:test_dir umerraja$ echo "cat" > commands.txt
+Raja-Umer:test_dir umerraja$ echo "ls" >> commands.txt
+Raja-Umer:test_dir umerraja$ echo "pwd" >> commands.txt
+Raja-Umer:test_dir umerraja$ cat command.txt
+cat: command.txt: No such file or directory
+Raja-Umer:test_dir umerraja$ cat commands.txt
+cat
+ls
+pwd
+Raja-Umer:test_dir umerraja$ cat pets.txt
+cat
+dog
+hamster
+Raja-Umer:test_dir umerraja$ echo "cat" >lovelycommands.txt
+Raja-Umer:test_dir umerraja$ 
