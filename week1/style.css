@@ -1,0 +1,64 @@
+ 
+ 
+ 
+/* for body size as A4 */
+ body {
+    height: 842px;
+    width: 595px;
+    /* to centre page on screen*/
+    margin-left: auto;
+    margin-right: auto;
+}
+/* for image position */
+img {
+    position: relative;
+    left: 445px;
+    top: 150px;
+}
+
+/* for picture size */
+#pictrueSize {
+    width: 150px;
+    height: 150px;
+}
+
+/* id for name font and size */
+#myName { 
+    font-family: "Cormorant Garamond";
+    font-size: 36px;
+}
+
+/* class for all main headings of CV font, size, padding and background color */
+.subHead {
+    font-family: "Cormorant Garamond";
+    font-size: 20px;
+    padding: 4px;
+    background: rgb(84, 145, 185);
+}
+
+ /* class for profile text font and size */
+.Profile {
+    font-family: "Montserrat";
+    font-size: 11px;
+}
+
+/* for position of selected dev text */
+div {
+    position: relative;
+    left: 20px;
+}
+
+/* sub heading text of h3 sub headings text font and size */
+h3 { font-family: "Montserrat";
+     font-size: 12px;
+    }
+
+/* sub heading text of h4 sub headings text font and size */
+h4 { font-family: "Montserrat";
+     font-size: 12px;
+    }
+
+/*  for bullet point text font and size */
+ul { font-family: "Montserrat";
+     font-size: 12px;
+}
